@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! I'm Yannick
+
+I'm a driven IT Professional who originally switched from the social sciences track (political communication) to the tech world in 2015 as a consultant / project manager. Now I'm taking my passion in tech to the next level with coding!
+
+Bit of a Bike and Coffee Nerd!
+
+Reach out to me:
+
+
 
 <!--
 **YannWe/YannWe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
