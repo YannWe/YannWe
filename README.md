@@ -33,9 +33,9 @@ Bit of a Bike and Coffee Nerd.
 
 ## Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannWe&langs_count=8&theme=dark&layout=compact) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YannWe&langs_count=8&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > **Note**
 Top Languages does not indicate my skill level or anything like that; it's a simple GitHub metric to determine which languages have the most code on GitHub.
 
-![Yannick's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannWe&hide=stars&count_private=true&show_icons=true&theme=dark&hide_rank=true)
+[![Yannick's GitHub stats](https://github-readme-stats.vercel.app/api?username=YannWe&hide=stars&count_private=true&show_icons=true&theme=dark&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
